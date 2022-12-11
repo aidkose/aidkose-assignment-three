@@ -1,0 +1,33 @@
+button {
+  margin: 10px;
+}
+
+.del {
+  background-color: rgb(214, 26, 26);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: white;
+}
+
+.del:hover {
+  background-color: rgb(190, 20, 20);
+}
+.del:active {
+  background-color: rgb(169, 19, 19);
+}
+
+.comp {
+  background-color: rgb(62, 180, 62);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: white;
+}
+
+.comp:hover {
+  background-color: rgb(55, 168, 55);
+}
+.comp:active {
+  background-color: rgb(43, 150, 43);
+}
